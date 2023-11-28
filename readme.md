@@ -23,4 +23,4 @@ Dichiariamo chi ha vinto.
 3 - creiamo una variabile dove generiamo un numero casuale per il computer
 4 - creiamo una variabile dove sommiamo i 2 numeri precedentemente acquisiti
 5 - tramite una funzione, stabiliamo se la somma dei numeri è pari o dispari
-6 - in console, stampiamo un messaggio di vittoria in base a chi dei due sfidanti ha vinto.
+6 - in console, stampiamo un messaggio di vittoria in base a chi dei due sfidanti ha
